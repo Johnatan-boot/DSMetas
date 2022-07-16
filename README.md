@@ -1,3 +1,14 @@
+![2022-07-15](https://user-images.githubusercontent.com/68795812/179326243-71c2c78e-22ee-4531-b8de-8dd3a333105c.png)
+![2022-07-15 (4)](https://user-images.githubusercontent.com/68795812/179326246-e8015f37-a723-4396-865c-c639a39b0e86.png)
+![2022-07-15 (5)](https://user-images.githubusercontent.com/68795812/179326247-eee1e2b1-ab2e-40be-aff8-89f043e7973d.png)
+![2022-07-15 (6)](https://user-images.githubusercontent.com/68795812/179326248-8d370820-67f9-4370-8662-c6d42c7353cd.png)
+![2022-07-15 (7)](https://user-images.githubusercontent.com/68795812/179326249-dd09d3c2-ad08-424b-b52a-fb85ee78fa47.png)
+![2022-07-15 (8)](https://user-images.githubusercontent.com/68795812/179326250-a75a0e65-003f-44b7-a0da-1cb01d7ac33e.png)
+![2022-07-15 (9)](https://user-images.githubusercontent.com/68795812/179326251-b838ac6b-506c-4b25-b4b0-80236b8091f4.png)
+![2022-07-15 (10)](https://user-images.githubusercontent.com/68795812/179326252-81630731-7834-44a2-a8b1-6980a9362b7b.png)
+
+
+
 # DSMetas
 Um Sistema Representando uma Tela de Vendas, Onde é Possivel Filtrar todas as Vendas de um Ano Atrás e Vendas Deste Ano Ano Recente. Desenvolvido Parte de Frontend Com React.js Ultilizando Conceitos de Componentes, Hooks useStates, useEffect, Backend Com Spring Boot, H2-CONSOLE, Mysql, Spring Seurity,JPA, API TWILIO para envio de SMS com informações das Vendas, Entidades,Controllers,Repositories,Services.
 Semana Spring React - Episódio 1
